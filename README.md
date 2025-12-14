@@ -32,7 +32,7 @@ A walkthrough of the user journey, from seating to ordering.
 
 | 3. Item Detail & Custom Notes | 4. Smart Cart & Checkout |
 | :---: | :---: |
-| <img src="images/detailprodukpopup.png" width="250" alt="Product Detail"> | <img src="images/checkout.png" width="250" alt="Checkout Screen"> |
+| <img src="images/detailproductpopup.png" width="250" alt="Product Detail"> | <img src="images/checkout.png" width="250" alt="Checkout Screen"> |
 | *Add items and specify special requests (e.g., "Not spicy").* | *Review order, adjust quantities, or edit notes before finalizing.* |
 
 ---

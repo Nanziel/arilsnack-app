@@ -74,18 +74,11 @@ Since this project is built with FlutterFlow, the source code in this repository
 
 ### 🌐 Web Version (Instant Access)
 Click the link below to run the app directly in your browser:
-[**🔗 Launch Web Demo**](MASUKKAN_LINK_WEB_FLUTTERFLOW_DISINI)
+[**🔗 Launch Web Demo**]([MASUKKAN_LINK_WEB_FLUTTERFLOW_DISINI](https://aril-snack-uyxjh7.flutterflow.app/))
 
-### 🤖 Android APK (Manual Installation)
-Download the `.apk` file to test on an Android device:
-[**⬇️ Download Latest APK**](MASUKKAN_LINK_FILE_APK_GITHUB_DISINI)
 
 ---
 
 ## 👤 Author & Context
 
-**Developed by:** [Nama Lengkap Kamu]
-**Course:** Special Topics in Software Development (CSD 34203)
-**Institution:** Faculty of Informatics and Computing (FIK), Unisza.
-
-*Disclaimer: This project was developed as a final assignment (CLO3) demonstrating mobile application development capabilities using modern tools.*
+**Developed by:** Nanziel
